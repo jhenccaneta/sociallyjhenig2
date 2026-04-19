@@ -334,7 +334,7 @@ body { display: flex; flex-direction: column; min-height: 100vh; }
 
       <!-- PRODUCT IMAGE -->
       <div class="product-img-placeholder">
-        <img class="preview" src="https://raw.githubusercontent.com/jhenccaneta/sociallyjhenig2/branch/main/leadgenerationmockup.png" alt="Instagram Lead Generation Blueprint" style="display:block;">
+        <img class="preview" src="leadgenerationmockup.png" alt="Instagram Lead Generation Blueprint" style="display:block;">
       </div>
 
       <span class="summary-label">Your Order</span>
